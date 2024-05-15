@@ -1,6 +1,8 @@
 # SpamClassifierNB
 Spam Classifier with Multinomial Naive Bayes using SMS dataset from Kaggle.
+
 Accuracy: 97.6%
+
 References:
 https://www.kaggle.com/code/pablovargas/naive-bayes-svm-spam-filtering
 https://www.kaggle.com/code/mehmetlaudatekman/filtering-spam-e-mails-power-of-naive-bayes
